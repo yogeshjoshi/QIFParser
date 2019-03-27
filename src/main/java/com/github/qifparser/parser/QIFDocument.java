@@ -52,7 +52,7 @@ public class QIFDocument implements QIFDocumentInterface {
     }
     
     /**
-     * Returns the number of QIF entries (transactions) in the QIF
+     * Returns the number of QIF entries (transactions) in the QIF (Quicken Interchange Format)
      * document.
      */
 	@Override

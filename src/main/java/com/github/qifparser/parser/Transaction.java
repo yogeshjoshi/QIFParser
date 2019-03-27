@@ -72,7 +72,7 @@ public class Transaction implements TransactionInterface{
     }
     
     /**
-     * Returns the string representation of the entry.
+     * Returns the string representation of the entry.(Transaction)
      */
     public String toString() {
         StringBuilder stringBuilder = new StringBuilder();
