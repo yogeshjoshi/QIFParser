@@ -1,6 +1,7 @@
 # QIFParser
 
 [![GPL-3.0](https://img.shields.io/badge/license-LGPL--3%2FApache--2.0-blue.svg)](LICENSE)
+
 Java library for reading the QIF (Quicken Interchange Format Files) files.
 
 ## File Format 
